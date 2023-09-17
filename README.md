@@ -17,10 +17,7 @@ Some of the projects I'm working on:
 - You can also catch up with my latest code adventures on [GitHub](https://github.com/dpanshug). Let's collaborate and make the digital world a better place, one code commit at a time.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpanshug&show_icons=true&count_private=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpanshug&layout=compact&theme=radical)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpanshug)
 
 ## Connect with Me
 - 📫 How to reach me: dipanshug124@gmail.com
