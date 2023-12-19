@@ -16,9 +16,6 @@ Some of the projects I'm working on:
 - Want to chat about open source, tech, or share some foodie recommendations? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dipanshug124/)!
 - You can also catch up with my latest code adventures on [GitHub](https://github.com/dpanshug). Let's collaborate and make the digital world a better place, one code commit at a time.
 
-## GitHub Stats
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpanshug)
-
 ## Connect with Me
 - 📫 How to reach me: dipanshug124@gmail.com
 - 🔗 LinkedIn: [dipanshug124](https://www.linkedin.com/in/dipanshug124/)
