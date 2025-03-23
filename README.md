@@ -10,7 +10,7 @@ Hello, I'm Dipanshu! 👋 I'm focused on innovating and contributing to the open
 Some of the projects I'm working on:
 
 - [Open Data Hub Dashboard](https://github.com/opendatahub-io/odh-dashboard)
-- [Infinispan console](https://github.com/infinispan/infinispan-console)
+- [Cypress Test Explorer](https://github.com/dpanshug/cypress-test-explorer)
 
 ## Connect with Me
 - 📫 How to reach me: dipanshug124@gmail.com
